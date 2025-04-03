@@ -8,12 +8,12 @@
       We make the best for all our customers.
     </p>
     <p class="text-base text-[#504949]">
-      Our objective at Gîte les 3 fleurs is to bring together our visitors'
-      societies and spirits with our own, communicating enthusiasm and
-      liberality in the food we share. Official Chef and Owner Anthony
-      Woodbridge superbly creates a blend of Lebanese, Levantine,
-      Mediterranean-motivated food blended with New York mentality. Delightful
-      herbs and flavors consolidate surfaces to pacify wide-based palates.
+      Our mission is to provide an intimate and serene retreat for tourists
+      seeking tranquility in the picturesque suburbs of Toulouse. Inspired by
+      the elegance of three flowers—rose, cosmos, and lavender—we aim to create
+      a unique hospitality experience that blends natural beauty, personalized
+      service, and cultural immersion. Each room embodies the essence of its
+      flower, offering guests a harmonious environment to relax and rejuvenate.
     </p>
     <CEOProfile />
   </section>

@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-between items-center px-10 py-2 bg-[#FFFCFC] shadow-md mt-2">
-    <img src="../assets/images/logo.png" alt="hero" />
+    <img src="../assets/images/logo.jpg" alt="hero" class="h-50"/>
     <div class="flex flex-col gap-2">
       <p>FOLLOW US</p>
       <div class="flex flex-row gap-2"> 
