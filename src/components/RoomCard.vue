@@ -35,7 +35,7 @@
 </template>
 
 <script setup lang="ts">
-import { defineComponent, h, ref } from 'vue';
+import { ref } from 'vue';
 import { cn } from '../lib/utils';
 
 const isHovered = ref(false);
