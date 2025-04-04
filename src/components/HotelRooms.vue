@@ -3,7 +3,7 @@
     <div class="flex flex-col items-center max-w-[1353px] mx-auto">
       <div class="text-center mb-12 space-y-4">
         <p class="text-xl text-white">THE BEST FOR YOUR FAMILY</p>
-        <h2 class="text-5xl text-white">Our Favourite Room</h2>
+        <h2 class="text-5xl text-white">Our Room</h2>
       </div>
 
       <div class="flex flex-row gap-6 w-full">
